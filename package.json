@@ -1,0 +1,27 @@
+{
+  "name": "tinfoilmongoose",
+  "version": "1.0.0",
+  "description": "Clean version of scraper app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foscat/tinfoilMongoose.git"
+  },
+  "author": "k-fizzle",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.1.6"
+  },
+  "bugs": {
+    "url": "https://github.com/Foscat/tinfoilMongoose/issues"
+  },
+  "homepage": "https://github.com/Foscat/tinfoilMongoose#readme"
+}
